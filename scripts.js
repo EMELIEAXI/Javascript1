@@ -23,3 +23,5 @@ let antalbokstavar = raknabokstaver(fornamn)
 
 //Skriv ut:
 alert("Hej "+ fornamn + " ! Visste du att du har " + antalbokstavar + " st bokstäver i ditt namn?");
+
+//Prutt och bajs bara för att testa 
